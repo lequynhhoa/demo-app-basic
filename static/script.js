@@ -2,7 +2,7 @@
 (function() {
 
   // The client ID from the Google Developers Console.
-  var CLIENT_ID = '114697316148066026989';
+  var CLIENT_ID = '884698086022-57pprs9tsj00eno9imj5v6qjed38v7ff.apps.googleusercontent.com';
 
   // Our Google map.
   var map;
